@@ -8,12 +8,10 @@ const LandingPage = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <h1 className="display-3 mb-4">Hello World!, Welcome to my portfolio
-                </h1>
-                <p className="lead"> Create a developer profile/portfolio, share posts and get help from other developers</p>
+                <h1 className="display-4 mb-4">Hello, my name is Frank Eduardo Araque</h1>
+                <p className=" display-5 lead"> Thanks for the interest in my profile.</p>
                 <hr />
-                <a href="register.html" className="btn btn-lg btn-info mr-2">Sign Up</a>
-                <a href="login.html" className="btn btn-lg btn-light">Login</a>
+                <a href="register.html" className="btn btn-lg btn-info mr-2">Contact me</a>
               </div>
             </div>
           </div>
